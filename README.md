@@ -1,6 +1,6 @@
 # GroceryList
 
-This repository is the home base for an application that is being built as a learning exercise. We plan to blog about the challenges we face along the way and how we solve them. It is a mobile-only application and it will be built using meteor and Angular.
+This repository is the home base for an application that is being built as a learning exercise. We plan to blog about the challenges we face along the way and how we solve them. It is a mobile-only application and it will be built using the latest and greatest versions of Meteor and Angular.
 
 # The Vision
 
